@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">✨ Creating webs since 2024</p>
+
 
 ###
 
