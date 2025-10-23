@@ -9,7 +9,7 @@
 ###
 
 <p align="left">My name is <strong>Dani</strong> and I'm a Government web developer, from Indonesia</p>
-<p> For now I'm not so good, but slowly but surely</p>
+<p> For now I'm not so good, but slowly but surely</p> 🐱‍💻
 
 ###
 
