@@ -1,23 +1,15 @@
-<!-- HEADER -->
-<div align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&text=Dani%20Michael&fontSize=35&fontAlignY=45&desc=Government%20IT%20Enthusiast%20%7C%20Web%20%26%20Desktop%20Developer&descAlignY=70&descSize=14"
-    width="85%"
-  />
-</div>
-
 <!-- INTRO -->
 <div align="center">
 
-  <h2>👋 Well, Hello My Friend!</h2>
+  <h1>👋 Well, Hello My Friend!</h1>
 
   <p>
-    <strong>Government IT Enthusiast • Web & Desktop Developer</strong>
+    <strong>Government IT Enthusiast • Web & Desktop Developer 🚀</strong>
   </p>
 
   <p>
     Building digital solutions for better government<br>
-    and public services 🚀
+    and public services.
   </p>
 
 </div>
@@ -27,10 +19,78 @@
 <!-- ABOUT -->
 <h2>💻 About Me</h2>
 
-```text
-🏛️  Government IT Enthusiast
-💻  Web & Desktop Application Developer
-🌐  Digital Government & Public Service Technology
-📄  Document Management & PDF Solutions
-🔧  Exploring modern development tools
-🚀  Learning, building, and improving — slowly but surely
+<p>
+I'm <strong>Dani</strong>, a Government IT Enthusiast who enjoys building
+web and desktop applications to support digital transformation and
+public services.
+</p>
+
+<p>
+Currently learning, experimenting, and building new things —
+<strong>slowly but surely.</strong> 🐱‍💻
+</p>
+
+<br>
+
+<!-- FOCUS -->
+<h2>🎯 What I Do</h2>
+
+<div align="center">
+
+| 🏛️ Government IT | 🌐 Web Development | 🖥️ Desktop Apps |
+|:---:|:---:|:---:|
+| Digital Government | Information Systems | Electron |
+| Public Services | Data Management | Tauri |
+| Administration | Document Systems | Node.js |
+
+</div>
+
+<br>
+
+<!-- TECH STACK -->
+<h2>🛠️ Languages & Tools</h2>
+
+<div align="center">
+
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,c,mysql,nodejs,bash,bootstrap,git,github,vscode&perline=7" />
+
+</div>
+
+<br>
+
+<!-- CURRENTLY LEARNING -->
+<h2>🌱 Currently Exploring</h2>
+
+<div align="center">
+
+  <code>Tauri</code>
+  <code>Electron</code>
+  <code>Next.js</code>
+  <code>Node.js</code>
+  <code>PDF Processing</code>
+  <code>Digital Government</code>
+
+</div>
+
+<br>
+
+<!-- PROJECTS -->
+<h2>🚀 Featured Projects</h2>
+
+- 📄 **PDF Toolkit** — PDF management and document processing application
+- 🗂️ **SILOKA** — Digital archive location management system
+- 📑 **SIPAS** — Government correspondence management system
+- 🏛️ **Government Web Applications** — Digital solutions for public services
+
+<br>
+
+<!-- PHILOSOPHY -->
+<div align="center">
+
+  <h3>🐱‍💻 Learning • Building • Improving</h3>
+
+  <p>
+    <i>"Slowly but surely."</i> 🚀
+  </p>
+
+</div>
