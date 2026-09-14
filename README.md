@@ -1,8 +1,9 @@
 <!-- HEADER -->
 <div align="center">
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&text=Dani%20Michael&fontSize=45&fontAlignY=40&desc=Government%20IT%20Enthusiast%20%7C%20Web%20%26%20Desktop%20Developer&descAlignY=65&descSize=17" width="100%" />
-
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&text=Dani%20Michael&fontSize=35&fontAlignY=45&desc=Government%20IT%20Enthusiast%20%7C%20Web%20%26%20Desktop%20Developer&descAlignY=70&descSize=14"
+    width="85%"
+  />
 </div>
 
 <!-- INTRO -->
