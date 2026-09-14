@@ -8,8 +8,8 @@
 
 ###
 
-<p align="left">My name is <strong>Dani</strong> and I'm a Government web developer 🏴‍☠️</p>
-<p> For now I'm not so good, but slowly but surely</p> 🐱‍💻
+<p align="left">I'm <strong>Dani</strong>, a Government IT Enthusiast | Web & Desktop Developer 🚀</p>
+<p>Building digital solutions for better government and public services 🐱‍💻</p>
 
 ###
 
