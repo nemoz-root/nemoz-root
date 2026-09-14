@@ -1,49 +1,35 @@
+<!-- HEADER -->
 <div align="center">
-  <img height="150" src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.behance.net%2Fgallery%2F165684019%2FChill-Bros%2Fmodules%2F934397723&psig=AOvVaw2VqnUlejX-33OAHHQr0j3Z&ust=1752558110210000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMDk9vXRu44DFQAAAAAdAAAAABAE)"  />
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&text=Dani%20Michael&fontSize=45&fontAlignY=40&desc=Government%20IT%20Enthusiast%20%7C%20Web%20%26%20Desktop%20Developer&descAlignY=65&descSize=17" width="100%" />
+
 </div>
 
-###
+<!-- INTRO -->
+<div align="center">
 
-<h1 align="left">Well, Hello My Friend 🤙🏼 !!</h1>
+  <h2>👋 Well, Hello My Friend!</h2>
 
-###
+  <p>
+    <strong>Government IT Enthusiast • Web & Desktop Developer</strong>
+  </p>
 
-<p align="left">I'm <strong>Dani</strong>, a Government IT Enthusiast | Web & Desktop Developer 🚀</p>
-<p>Building digital solutions for better government and public services 🐱‍💻</p>
+  <p>
+    Building digital solutions for better government<br>
+    and public services 🚀
+  </p>
 
-###
-
-<h2 align="left"></h2>
-
-###
-
-
-
-###
-
-<h2 align="left">🛠️Language and Tools</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql logo"  />
-  <img width="12" /> <br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" height="40" alt="boostrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codeigniter/codeigniter-plain-wordmark.svg" height="40" alt="Ci logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" height="40" alt="node logo"  />
-  <img width="12" />
 </div>
 
-###
+<br>
+
+<!-- ABOUT -->
+<h2>💻 About Me</h2>
+
+```text
+🏛️  Government IT Enthusiast
+💻  Web & Desktop Application Developer
+🌐  Digital Government & Public Service Technology
+📄  Document Management & PDF Solutions
+🔧  Exploring modern development tools
+🚀  Learning, building, and improving — slowly but surely
