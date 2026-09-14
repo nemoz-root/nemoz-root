@@ -20,7 +20,7 @@
 <h2>💻 About Me</h2>
 
 <p>
-I'm <strong>Dani</strong>, a Government IT Enthusiast who enjoys building
+I'm a Government IT Enthusiast who enjoys building
 web and desktop applications to support digital transformation and
 public services.
 </p>
